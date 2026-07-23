@@ -1,0 +1,24 @@
+Date: 22/7/2026
+Time: 15:22
+Phone Number: +919579853864
+Image: D:\M.tech HSRP project\backend\reports\KA03MF5678.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: KA03MF5678Fine: Rs.500Date: 2026-07-22T08:52:32.531ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/KA03MF5678_report.pdf
+--------------------
+Date: 22/7/2026
+Time: 15:22
+Phone Number: +919579853864
+Image: D:\M.tech HSRP project\backend\reports\TEST1234.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: TEST1234Fine: Rs.500Date: 2026-07-22T08:58:05.905ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/TEST1234_report.pdf
+--------------------
+Date: 22/7/2026
+Time: 15:24
+Phone Number: +917796380995
+Image: D:\M.tech HSRP project\backend\reports\KA03MF5677.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: KA03MF5677Fine: Rs.500Date: 2026-07-22T09:28:57.765ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/KA03MF5677_report.pdf
+--------------------
+Date: 22/7/2026
+Time: 15:25
+Phone Number: +917796380995
+Image: D:\M.tech HSRP project\backend\reports\KA03MF5678.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: KA03MF5678Fine: Rs.500Date: 2026-07-22T09:28:52.035ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/KA03MF5678_report.pdf
+--------------------

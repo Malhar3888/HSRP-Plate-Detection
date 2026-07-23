@@ -1,0 +1,54 @@
+Date: 22/7/2026
+Time: 15:38
+Phone Number: +917796380995
+Image: D:\M.tech HSRP project\backend\reports\AP75MX4142.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: AP75MX4142Fine: Rs.500Date: 2026-07-22T10:07:32.810ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/AP75MX4142_report.pdf
+--------------------
+Date: 22/7/2026
+Time: 15:39
+Phone Number: +917796380995
+Image: D:\M.tech HSRP project\backend\reports\AP75MX4142.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: AP75MX4142Fine: Rs.500Date: 2026-07-22T10:07:32.810ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/AP75MX4142_report.pdf
+--------------------
+Date: 22/7/2026
+Time: 15:39
+Phone Number: +917796380995
+Image: D:\M.tech HSRP project\backend\reports\AP75MX4142.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: AP75MX4142Fine: Rs.500Date: 2026-07-22T10:07:32.810ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/AP75MX4142_report.pdf
+--------------------
+Date: 22/7/2026
+Time: 15:40
+Phone Number: +917796380995
+Image: D:\M.tech HSRP project\backend\reports\AP75MX4142.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: AP75MX4142Fine: Rs.500Date: 2026-07-22T10:07:32.810ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/AP75MX4142_report.pdf
+--------------------
+Date: 22/7/2026
+Time: 15:40
+Phone Number: +917796380995
+Image: D:\M.tech HSRP project\backend\reports\AP75MX4142.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: AP75MX4142Fine: Rs.500Date: 2026-07-22T10:07:32.810ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/AP75MX4142_report.pdf
+--------------------
+Date: 22/7/2026
+Time: 15:41
+Phone Number: +917796380995
+Image: D:\M.tech HSRP project\backend\reports\AP75MX4142.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: AP75MX4142Fine: Rs.500Date: 2026-07-22T10:07:32.810ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/AP75MX4142_report.pdf
+--------------------
+Date: 22/7/2026
+Time: 15:42
+Phone Number: +917796380995
+Image: D:\M.tech HSRP project\backend\reports\AP75MX4142.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: AP75MX4142Fine: Rs.500Date: 2026-07-22T10:07:32.810ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/AP75MX4142_report.pdf
+--------------------
+Date: 22/7/2026
+Time: 15:43
+Phone Number: +917796380995
+Image: D:\M.tech HSRP project\backend\reports\UPZ0ED1974.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: UPZ0ED1974Fine: Rs.500Date: 2026-07-22T10:13:18.828ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/UPZ0ED1974_report.pdf
+--------------------
+Date: 23/7/2026
+Time: 18:43
+Phone Number: +917796380995
+Image: F:\HSRP-Plate-Detection-main\HSRP-Plate-Detection-main\backend\reports\6ULD1074.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: 6ULD1074Fine: Rs.500Date: 2026-07-23T13:12:14.274ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/6ULD1074_report.pdf
+--------------------
