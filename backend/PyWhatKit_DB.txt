@@ -52,3 +52,9 @@ Phone Number: +917796380995
 Image: F:\HSRP-Plate-Detection-main\HSRP-Plate-Detection-main\backend\reports\6ULD1074.jpg
 Caption: *TRAFFIC VIOLATION ALERT*Vehicle: 6ULD1074Fine: Rs.500Date: 2026-07-23T13:12:14.274ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/6ULD1074_report.pdf
 --------------------
+Date: 23/7/2026
+Time: 22:56
+Phone Number: +917796380995
+Image: F:\HSRP-Plate-Detection-main\HSRP-Plate-Detection-main\backend\reports\TS01QJ3528.jpg
+Caption: *TRAFFIC VIOLATION ALERT*Vehicle: TS01QJ3528Fine: Rs.500Date: 2026-07-23T17:26:38.679ZYour official PDF report has been generated and is available at:http://localhost:8000/reports/TS01QJ3528_report.pdf
+--------------------

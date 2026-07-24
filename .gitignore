@@ -53,3 +53,4 @@ share/python-wheels/
 *.pt
 *.pth
 
+.vercel
