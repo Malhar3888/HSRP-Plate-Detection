@@ -460,8 +460,9 @@ export default function LiveHSRPDetectionPage() {
   // Connect to WebSocket backend
   const connectWebSocket = useCallback(() => {
     try {
-      // Replace with your backend WebSocket URL
-      const ws = new WebSocket('ws://localhost:8000/ws/detect');
+      // Replace with your backend WebSocket URL or use environment variable
+      const wsUrl = import.meta.env.VITE_WS_URL || 'ws://localhost:8000/ws/detect';
+      const ws = new WebSocket(wsUrl);
       
       ws.onopen = () => {
         console.log('WebSocket connected');
